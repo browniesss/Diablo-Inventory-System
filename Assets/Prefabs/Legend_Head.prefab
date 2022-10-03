@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &666339032783856906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 666339032783856904}
+  - component: {fileID: 666339032783856905}
+  m_Layer: 0
+  m_Name: Legend_Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &666339032783856904
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 666339032783856906}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1587019, y: 0.9798565, z: 2.4476843}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &666339032783856905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 666339032783856906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e11d2e8123336b4490bdf27080fe26a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item_Name: "\uACF5\uBA85\uC758 \uB450\uAC1C\uACE8"
+  item_Sprite: {fileID: 21300000, guid: e816cc90a273d114c8fe221805e7b5eb, type: 3}
+  item_Grade: "\uC804\uC124 \uD22C\uAD6C"
+  item_real_Type: "\uBA38\uB9AC"
+  item_Dps: 217-246
+  item_Damage: 0
+  item_Attack_Speed: 0
+  item_Option: "\uC8FC\uC694 \uC18D\uC131\r\n\uBAA8\uB4E0 \uC6D0\uC18C \uC800\uD56D
+    +21-30\r\n\r\n\uBCF4\uC870 \uC18D\uC131\r\n\uC704\uD611\uC758 \uC678\uCE68\uC774
+    \uC77C\uC815 \uD655\uB960\uB85C \uC801\uB4E4\uC744 \uB9E4\uD639\uC2DC\uD0A4\uACE0
+    \uC804\uD22C\uB97C \uB3D5\uAC8C \uD568\r \r\n3\uAC00\uC9C0 \uB9C8\uBC95 \uC18D\uC131
+    \uC911 1\uAC1C(\uAC00\uBCC0)\r\r\n\uBBFC\uCCA9 +240-269\r\n\uD798 +240-269\r\n\uC9C0\uB2A5
+    +240-269"
+  item_Explain: "\uC774 \uC12C\uB729\uD55C \uD22C\uAD6C\uB294 \uC18C\uB9AC\uB97C
+    \uC798 \uC9D1\uC911\uC2DC\uD0A4\uACE0 \uBD84\uC0B0\uC2DC\uD0A4\uB294 \uAD6C\uC870\uB85C
+    \uC870\uAC01\uB418\uC5B4 \uC788\uC2B5\uB2C8\uB2E4."
+  item_Class: 5005
+  item_Shape: 3000
+  item_Type: 1008

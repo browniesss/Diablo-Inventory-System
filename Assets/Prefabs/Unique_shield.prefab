@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7719529646225801498
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7719529646225801496}
+  - component: {fileID: 7719529646225801497}
+  m_Layer: 0
+  m_Name: Unique_shield
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7719529646225801496
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7719529646225801498}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1587019, y: 0.9798565, z: 2.4476843}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7719529646225801497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7719529646225801498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e11d2e8123336b4490bdf27080fe26a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item_Name: "\uAC70\uB8E9\uD55C \uBCF4\uB8E8"
+  item_Sprite: {fileID: 21300000, guid: 680e0690966fb6f449070760f9b58633, type: 3}
+  item_Grade: "\uC804\uC124 \uC131\uC804\uC0AC \uBC29\uD328"
+  item_real_Type: "\uBCF4\uC870 \uC7A5\uBE44"
+  item_Dps: 0
+  item_Damage: 0
+  item_Attack_Speed: 0
+  item_Option: "\uC8FC\uC694 \uC18D\uC131\r\n\uD798 +128-163\r\r\n\uBCF4\uC870 \uC18D\uC131\r\n\uCCA0\uAC11
+    \uD53C\uBD80\uAC00 \uBC29\uD328 \uBC29\uC5B4\uB7C9\uC744 45-60% \uC99D\uAC00\uC2DC\uD0B4\r\n\r\n\uBB34\uC791\uC704
+    \uC18D\uC131 +4\uAC00\uC9C0"
+  item_Explain: "\uCD5C\uCD08\uC758 \uC131\uC804\uC0AC \uC911 \uD558\uB098\uAC00
+    \uD2B8\uB77C\uBE48\uCE7C\uC744 \uB5A0\uB098\uAE30 \uC804\uC5D0 \uB9CC\uB4E0 \uC774
+    \uBC29\uD328\uB294 \uC624\uB79C \uD5CC\uC2E0\uC758 \uBE5B\uC73C\uB85C \uBC18\uC9DD\uC785\uB2C8\uB2E4.
+    \uC2A4\uC2B9\uC5D0\uC11C \uC81C\uC790\uC758 \uC190\uC73C\uB85C \uAC70\uB4ED \uC804\uD574\uC838
+    \uC628 \uC774 \uBC29\uD328\uB294 \uC904\uACE7 \uC545\uC758 \uBB34\uB9AC\uB85C\uBD80\uD130
+    \uCC29\uC6A9\uC790\uB97C \uBCF4\uD638\uD574\uC654\uC2B5\uB2C8\uB2E4"
+  item_Class: 5004
+  item_Shape: 3001
+  item_Type: 1009

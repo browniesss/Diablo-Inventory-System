@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6785611619106192591
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6785611619106192589}
+  - component: {fileID: 6785611619106192588}
+  m_Layer: 0
+  m_Name: Epic_wrist
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6785611619106192589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6785611619106192591}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1587019, y: 0.9798565, z: 2.4476843}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6785611619106192588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6785611619106192591}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e11d2e8123336b4490bdf27080fe26a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item_Name: "\uACF5\uB825 \uBCF4\uD638\uB300"
+  item_Sprite: {fileID: 21300000, guid: 97c7a92954ab9a74ba94bcc25265e3eb, type: 3}
+  item_Grade: "\uC804\uC124 \uD314 \uBC29\uC5B4\uAD6C"
+  item_real_Type: "\uC190\uBAA9"
+  item_Dps: 366-421
+  item_Damage: 0
+  item_Attack_Speed: 0
+  item_Option: "\uC8FC\uC694 \uC18D\uC131\r\n\uADF9\uB300\uD654 \uD655\uB960 4.5-6.0%
+    \uC99D\uAC00\r\n\uBCF4\uC870 \uC18D\uC131\r\n\uACF5\uB825 \uC0DD\uC131 \uAE30\uC220
+    \uC0AC\uC6A9 \uC2DC 3\uCD08 \uB3D9\uC548 \uBC1B\uB294 \uD53C\uD574\uAC00 30-40%
+    \uAC10\uC18C\r\r \n3\uAC00\uC9C0 \uB9C8\uBC95 \uC18D\uC131 \uC911 1\uAC1C(\uAC00\uBCC0)\r\r\n\uBBFC\uCCA9
+    +416-500\r\r\n\uD798 +416-500\r\r\n\uC9C0\uB2A5 +416-500\r\n\uBB34\uC791\uC704
+    \uC18D\uC131 +3\uAC00\uC9C0"
+  item_Explain: "\uC7A5\uB85C\uB4E4\uC740 \uACF5\uB825\uC774 \uCC28\uBA74 \uC774
+    \uC138\uC0C1\uC758 \uC704\uD5D8\uC774 \uAE30\uC6B4\uB2E4\uACE0 \uB9D0\uD569\uB2C8\uB2E4."
+  item_Class: 5004
+  item_Shape: 3001
+  item_Type: 1007

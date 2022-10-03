@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2859780112826199060
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2859780112826199062}
+  - component: {fileID: 2859780112826199063}
+  m_Layer: 0
+  m_Name: Legend_Pants 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2859780112826199062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2859780112826199060}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1587019, y: 0.9798565, z: 2.4476843}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2859780112826199063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2859780112826199060}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e11d2e8123336b4490bdf27080fe26a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item_Name: "\uB2AA\uC9C0\uB300 \uBC14\uC9C0"
+  item_Sprite: {fileID: 21300000, guid: 7b3991cc71421b14a99ea7e9dd1a3971, type: 3}
+  item_Grade: "\uD76C\uADC0 \uBC14\uC9C0"
+  item_real_Type: "\uB2E4\uB9AC"
+  item_Dps: 217-246
+  item_Damage: 0
+  item_Attack_Speed: 0
+  item_Option: "\uBCF4\uC870 \uC18D\uC131\r\n\uBA54\uB69C\uAE30 \uB5BC \uB610\uB294
+    \uB9DD\uC790\uC758 \uC190\uC544\uADC0\uC758 \uC601\uD5A5\uC744 \uBC1B\uB294 \uC801\uC5D0\uAC8C
+    \uD76C\uC0DD\uC73C\uB85C \uC8FC\uB294 \uD53C\uD574 300-400%\uC99D\uAC00\r\r \r\n3\uAC00\uC9C0
+    \uB9C8\uBC95 \uC18D\uC131 \uC911 1\uAC1C(\uAC00\uBCC0)\r\n\uBBFC\uCCA9 +160-179\r\n\uD798
+    +160-179\r\n\uC9C0\uB2A5 +160-179\r\n7\uAC00\uC9C0 \uB9C8\uBC95 \uC18D\uC131
+    \uC911 1\uAC1C(\uAC00\uBCC0)\r\r\n\uBB3C\uB9AC \uAE30\uC220\uB85C \uC8FC\uB294
+    \uD53C\uD574 10-15% \uC99D\uAC00\r\n\uBC88\uAC1C \uAE30\uC220\uB85C \uC8FC\uB294
+    \uD53C\uD574 10-15% \uC99D\uAC00\r\n\uB0C9\uAE30 \uAE30\uC220\uB85C \uC8FC\uB294
+    \uD53C\uD574 10-15% \uC99D\uAC00\r\r\n\uD654\uC5FC \uAE30\uC220\uB85C \uC8FC\uB294
+    \uD53C\uD574 10-15% \uC99D\uAC00\r\n\uBE44\uC804 \uAE30\uC220\uB85C \uC8FC\uB294
+    \uD53C\uD574 10-15% \uC99D\uAC00\r\r\n\uB3C5 \uAE30\uC220\uB85C \uC8FC\uB294
+    \uD53C\uD574 10-15% \uC99D\uAC00\r\n\uC2E0\uC131 \uAE30\uC220\uB85C \uC8FC\uB294
+    \uD53C\uD574 10-15% \uC99D\uAC00\r\r\n\uBB34\uC791\uC704 \uC18D\uC131 +3\uAC00\uC9C0"
+  item_Explain: "\uB2AA\uC9C0\uC758 \uAC00\uD639\uD55C \uD658\uACBD\uC5D0 \uACAC\uB51C
+    \uC218 \uC788\uB3C4\uB85D \uD2B9\uBCC4 \uC81C\uC791\uB418\uC5C8\uC2B5\uB2C8\uB2E4."
+  item_Class: 5002
+  item_Shape: 3001
+  item_Type: 1004

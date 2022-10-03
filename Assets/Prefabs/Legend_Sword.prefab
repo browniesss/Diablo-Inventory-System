@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3710884622601641020
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3710884622601641022}
+  - component: {fileID: 3710884622601641023}
+  m_Layer: 0
+  m_Name: Legend_Sword
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3710884622601641022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3710884622601641020}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.1587019, y: 0.9798565, z: 2.4476843}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3710884622601641023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3710884622601641020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e11d2e8123336b4490bdf27080fe26a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  item_Name: "\uB05D\uC5C6\uB294 \uC804\uC7C1"
+  item_Sprite: {fileID: 21300000, guid: 51ca08345e27972488097bc491ecc9c4, type: 3}
+  item_Grade: "\uC804\uC124 \uC591\uC190 \uAC70\uB300 \uBB34\uAE30"
+  item_real_Type: "\uC591\uC190 \uBB34\uAE30"
+  item_Dps: 78.3-79.0
+  item_Damage: (75-76)
+  item_Attack_Speed: 1.00
+  item_Option: "\uC8FC\uC694 \uC18D\uC131\r\n\uD53C\uD574 +3-4%\r\n\uC801\uC911\uB2F9
+    \uC0DD\uBA85\uB825 +494-674\r \r\n\uBB34\uC791\uC704 \uC18D\uC131 +4\uAC00\uC9C0"
+  item_Explain: "\uC8FD\uC740 \uC790\uB4E4\uB9CC\uC774 \uC804\uC7C1\uC758 \uB05D\uC744
+    \uBCF4\uC558\uC2B5\uB2C8\uB2E4."
+  item_Class: 5004
+  item_Shape: 3001
+  item_Type: 1001
